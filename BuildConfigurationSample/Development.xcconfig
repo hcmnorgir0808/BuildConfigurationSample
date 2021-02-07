@@ -1,0 +1,12 @@
+//
+//  Development.xcconfig
+//  BuildConfigurationSample
+//
+//  Created by yaiwamoto on 2021/02/07.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+APP_NAME = TestApp Dev
+API_URL = www.softmoco.com/api-dev
